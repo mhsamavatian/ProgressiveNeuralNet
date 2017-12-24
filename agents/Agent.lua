@@ -13,6 +13,8 @@ function agent:__init(args)
    -- Name of the agent
    self.name = args.name
 
+
+
    -- How much debug output to print.
    self.verbose = args.verbose
 
